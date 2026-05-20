@@ -1,116 +1,119 @@
-<!-- Header -->
-<h1 align="center">Hi there, I'm Sourabh Mhetre 👋</h1>
+<h1 align="center">👋 Hi, I'm Sourabh Mhetre</h1>
 
 <p align="center">
-  <strong>Senior Full Stack Developer</strong> · 6 Years · Drupal 9/10 · PHP · Laravel · React.js
+  <b>Senior Full Stack Developer</b> · Pune, Maharashtra, India<br/>
+  <a href="mailto:sourabh.mhetre01@gmail.com">sourabh.mhetre01@gmail.com</a> ·
+  <a href="https://linkedin.com/in/sourabhmhetre-280936170">LinkedIn</a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sourabhmhetre-280936170">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sourabh.mhetre01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sourabhmhetre&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 🚀 About Me
+### 🧑‍💻 About Me
 
-Results-driven **Senior Software Engineer** with 6 years of hands-on experience building enterprise-grade web platforms. I specialize in **Drupal 9/10, PHP 8.x, Laravel**, and **React.js** — with a strong focus on performance, scalability, and clean architecture.
+Senior Full Stack Developer with **5+ years** of experience delivering high-impact web solutions using **Drupal, Laravel, PHP**, and modern JavaScript frameworks. Proven expertise in CMS development, performance optimization, Redis caching, and SEO.
 
-- 🔧 Currently building enterprise **CMS platforms** and **RESTful API ecosystems**
-- ⚡ Delivered **40% traffic boost** & **35% performance improvement** via Redis caching & Core Web Vitals optimization
-- 🏆 **Super Achiever Award** & **Deployment Star** recipient for high-impact enterprise delivery
-- 📍 Based in **Pune, India** · Open to **Remote / Hybrid** roles
-- 💬 Ask me about **Drupal, PHP, Laravel, React.js, Redis, CI/CD**
+🏆 **Super Achiever Award** — recognized for consistent delivery of complex technical solutions with exceptional attention to detail at Bajaj Tech.AI.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠 Tech Stack
 
-### CMS & Backend
+**CMS & Frameworks**
+
 ![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat&logo=drupal&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+**Languages**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-### Database & Caching
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-### DevOps & Tools
+**DevOps & Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=flat&logo=composer&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 
-### Enterprise Platforms
-![PowerApps](https://img.shields.io/badge/Power_Apps-742774?style=flat&logo=powerapps&logoColor=white)
+**Enterprise Platforms**
+
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-008CDB?style=flat&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=powerautomate&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat&logo=servicenow&logoColor=black)
 
 ---
 
-## 🎯 What I Build
+### 💼 Work Experience
 
-```
-✅ Enterprise Drupal platforms   — custom modules, themes, Views & Paragraph types
-✅ Laravel backend APIs          — aggregator integrations & wrapper endpoints
-✅ RESTful API integrations      — SSO authentication & third-party data exchange
-✅ CI/CD pipelines               — Jenkins, Git, Docker deployments
-✅ Performance optimization      — Redis, WebP, Core Web Vitals
-✅ SEO implementation            — Schema.org, AMP Stories, UTM tracking
-```
+**🟢 Senior Software Engineer** — Bajaj Tech.AI, Pune *(May 2022 – Present)*
+- Architected enterprise-grade Drupal platforms with custom modules, themes, Views, and Paragraph types — reducing editorial effort by ~30%
+- Implemented Redis caching, CSS/JS aggregation, and WebP image optimization, improving Core Web Vitals scores
+- Integrated UTM tracking, Schema.org structured data, AMP Stories, and social sharing workflows for stronger SEO
+
+**⚪ PHP Developer** — Axiom Market Research & Consulting, Pune *(May 2021 – Apr 2022)*
+- Built 3+ scalable web apps including a Task Management System, Blogging Platform, and B2B Lead Generation portal
+- Developed an in-house Task Manager enabling task allocation and tracking for 50+ concurrent users
+- Reduced application bugs by 25% through CRUD operations, role-based access control, and rigorous testing
+
+**⚪ Software Engineer** — CleomeSoft Technologies, Pune *(Jul 2020 – Mar 2021)*
+- Designed a Single Sign-On (SSO) authentication system for 200+ internal enterprise users
+- Built Asset Allocation Management workflows using Microsoft PowerApps and Power Automate, reducing overhead by ~40%
+- Managed user access across ServiceNow, SharePoint, and PowerApps with 99%+ system availability
+
+**⚪ Software Developer** — DeccanLogic OPC Pvt Ltd, Pune *(Jul 2019 – Dec 2019)*
+- Contributed to *Beyond Animal*, a vegan social network platform for ethical product discovery
+- Improved platform stability by resolving cross-browser and cross-device bugs
+- Participated in agile sprints for feature delivery, regression testing, and performance optimization
 
 ---
 
-## 📊 GitHub Stats
+### 🎓 Education
+
+**Master of Computer Applications (MCA)**
+Punyashlok Ahilyadevi Holkar Solapur University *(Jun 2016 – Jun 2019)*
+
+---
+
+### 📜 Certifications
+
+- 🏅 MTA Networking
+- 🏅 MTA HTML5
+- 🏅 HTML5 App Dev Fundamentals
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sourabhmhetre&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhmhetre&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhmhetre&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🏅 Certifications
-
-- 🤖 Identify and mitigate AI data security risks
-- 🌐 Microsoft Technology Associate: Networking Fundamentals (MTA)
-- 🔍 Explore AI basics
-- 💻 HTML5 Application Development Fundamentals
-- ⚙️ Get started with AI Builder
-
----
-
-## 📫 Let's Connect
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/sourabhmhetre-280936170">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:sourabh.mhetre01@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <em>Open to Full-Time Permanent roles · WFH & Hybrid preferred · Pune-based</em>
+  <i>"Delivering scalable, performant web solutions — one commit at a time."</i>
 </p>
