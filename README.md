@@ -96,3 +96,5 @@ Results-driven **Senior Software Engineer** with 6 years of hands-on experience 
     <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
