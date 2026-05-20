@@ -64,12 +64,14 @@ Results-driven **Senior Software Engineer** with 6 years of hands-on experience 
 
 ## 🎯 What I Build
 
+```
 ✅ Enterprise Drupal platforms   — custom modules, themes, Views & Paragraph types
 ✅ Laravel backend APIs          — aggregator integrations & wrapper endpoints
 ✅ RESTful API integrations      — SSO authentication & third-party data exchange
 ✅ CI/CD pipelines               — Jenkins, Git, Docker deployments
 ✅ Performance optimization      — Redis, WebP, Core Web Vitals
 ✅ SEO implementation            — Schema.org, AMP Stories, UTM tracking
+```
 
 ---
 
