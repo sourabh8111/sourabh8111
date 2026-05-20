@@ -1,81 +1,128 @@
-<!-- Header -->
-<h1 align="center">Hi there, I'm Sourabh Mhetre 👋</h1>
+<!-- ========================= -->
+<!-- GitHub Profile README -->
+<!-- Dark Theme + Calibri Style -->
+<!-- ========================= -->
 
-<p align="center">
-  <strong>Senior Full Stack Developer</strong> · 6 Years · Drupal 9/10 · PHP · Laravel · React.js
-</p>
+<div align="center">
+
+# Hi there, I'm Sourabh Mhetre 👋
+
+### Senior Full Stack Developer | Drupal 9/10 | PHP | Laravel | React.js
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sourabhmhetre-280936170">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
   <a href="mailto:sourabh.mhetre01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+</div>
+
+---
+
+<div style="background-color:#0d1117; color:#c9d1d9; padding:25px; border-radius:12px; font-family:Calibri;">
+
+# 🚀 About Me
+
+Results-driven **Senior Software Engineer** with 6+ years of hands-on experience building enterprise-grade web platforms. Specialized in **Drupal 9/10, PHP 8.x, Laravel**, and **React.js** with strong focus on:
+
+- Performance Optimization
+- Scalable Architecture
+- RESTful APIs
+- Clean Code Practices
+- CI/CD Deployments
+
+### 🔥 Key Achievements
+
+- ⚡ Improved website performance by **35%**
+- 📈 Increased platform traffic by **40%**
+- 🚀 Optimized Core Web Vitals using Redis & caching
+- 🏆 Recipient of multiple enterprise excellence awards
+
+📍 Pune, India  
+🌐 Open to Remote / Hybrid Opportunities
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 CMS & Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🎨 Frontend
 
-Results-driven **Senior Software Engineer** with 6 years of hands-on experience building enterprise-grade web platforms. I specialize in **Drupal 9/10, PHP 8.x, Laravel**, and **React.js** — with a strong focus on performance, scalability, and clean architecture.
-
-- 🔧 Currently building enterprise **CMS platforms** and **RESTful API ecosystems**
-- ⚡ Delivered **40% traffic boost** & **35% performance improvement** via Redis caching & Core Web Vitals optimization
-- 🏆 **Super Achiever Award** & **Deployment Star** recipient for high-impact enterprise delivery
-- 📍 Based in **Pune, India** · Open to **Remote / Hybrid** roles
-- 💬 Ask me about **Drupal, PHP, Laravel, React.js, Redis, CI/CD**
-
----
-
-## 🛠️ Tech Stack
-
-### CMS & Backend
-![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat&logo=drupal&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-### Database & Caching
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-### Enterprise Platforms
-![PowerApps](https://img.shields.io/badge/Power_Apps-742774?style=flat&logo=powerapps&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-008CDB?style=flat&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
 ---
 
-## 🎯 What I Build
+## 🗄️ Database & Caching
 
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+---
+
+## ⚙️ DevOps & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+## 🏢 Enterprise Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge"/>
+</p>
+
+---
+
+# 🎯 What I Build
+
+```bash
+✅ Enterprise Drupal platforms
+✅ Custom Drupal modules & themes
+✅ RESTful APIs & third-party integrations
+✅ Laravel backend systems
+✅ React.js dynamic applications
+✅ CI/CD deployment pipelines
+✅ Redis caching & optimization
+✅ AMP Stories & SEO implementations
+✅ UTM tracking & analytics solutions
 ```
-✅ Enterprise Drupal platforms   — custom modules, themes, Views & Paragraph types
-✅ Laravel backend APIs          — aggregator integrations & wrapper endpoints
-✅ RESTful API integrations      — SSO authentication & third-party data exchange
-✅ CI/CD pipelines               — Jenkins, Git, Docker deployments
-✅ Performance optimization      — Redis, WebP, Core Web Vitals
-✅ SEO implementation            — Schema.org, AMP Stories, UTM tracking
-```
 
 ---
 
-## 🏅 Certifications
+# 🏅 Certifications
 
 - 🤖 Identify and mitigate AI data security risks
 - 🌐 Microsoft Technology Associate: Networking Fundamentals (MTA)
@@ -85,16 +132,53 @@ Results-driven **Senior Software Engineer** with 6 years of hands-on experience 
 
 ---
 
-## 📫 Let's Connect
+# 🏆 Awards & Recognitions
+
+- 🥇 Deployment Star Award
+- 🏆 Super Achiever Award
+- ⭐ Best Team of the Quarter
+- 🎯 Recognition for Bajaj Finserv Asset Management NFO Launch
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sourabhmhetre-280936170">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:sourabh.mhetre01@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sourabhmhetre-280936170">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sourabh.mhetre01@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⚡ “Building scalable digital experiences with performance & clean architecture.”
+
+</div>
