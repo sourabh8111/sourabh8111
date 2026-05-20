@@ -76,19 +76,6 @@ Results-driven **Senior Software Engineer** with 6 years of hands-on experience 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages"/>
-</p>
-
----
-
 ## 🏅 Certifications
 
 - 🤖 Identify and mitigate AI data security risks
@@ -109,8 +96,4 @@ Results-driven **Senior Software Engineer** with 6 years of hands-on experience 
   <a href="mailto:sourabh.mhetre01@gmail.com">
     <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <em>Open to Full-Time Permanent roles · WFH & Hybrid preferred · Pune-based</em>
 </p>
